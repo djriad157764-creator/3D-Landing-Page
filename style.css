@@ -175,4 +175,5 @@ main{
     position: absolute;
     top: 0;
     right: -20%;
+    z-index: -1;
 }
